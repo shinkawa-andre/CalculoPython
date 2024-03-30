@@ -1,4 +1,5 @@
 # Este codigo só funciona com expressoes simples
+# **********************************************
 
 from sympy import *
 
